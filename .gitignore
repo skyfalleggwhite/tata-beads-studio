@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+asset-index/
+rebuild/
+*.tar
+*.apk
+*.lpak
+extraction-report.json
